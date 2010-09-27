@@ -1,0 +1,95 @@
+﻿Build started 9/23/2010 10:26:53 PM.
+     1>Project "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Facebook Chatbot\Facebook Chatbot.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Facebook Chatbot.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.exe" /NOLOGO /LIBPATH:../lib/release /MANIFEST /ManifestFile:"Release\Facebook Chatbot.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.pdb" /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.lib" /MACHINE:X86 Release\ActionBlackjack.obj
+         Release\ActionDefs.obj
+         Release\Bot.obj
+         Release\BotAction.obj
+         Release\main.obj
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\adhoc.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\annotations.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\base64.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\bookmarkstorage.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\chatstatefilter.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\client.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\clientbase.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\component.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\compressionzlib.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\connectionhttpproxy.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\connectionsocks5proxy.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\connectiontcpbase.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\connectiontcpclient.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\connectiontcpserver.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dataform.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dataformbase.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dataformfield.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dataformitem.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dataformreported.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\delayeddelivery.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\disco.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\dns.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\flexoff.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\gloox.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\gpgencrypted.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\gpgsigned.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\inbandbytestream.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\inbandbytestreammanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\instantmucroom.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\jid.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\lastactivity.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\logsink.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\md5.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\messageeventfilter.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\messagefilter.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\messagesession.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\mucmessagesession.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\mucroom.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\mutex.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\nonsaslauth.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\oob.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\parser.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\prep.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\privacyitem.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\privacymanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\privatexml.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\registration.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\rosteritem.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\rostermanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\search.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\sha.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\simanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\siprofileft.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\socks5bytestream.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\socks5bytestreammanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\socks5bytestreamserver.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\stanza.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\stanzaextensionfactory.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tag.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsdefault.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsgnutlsbase.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsgnutlsclient.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsgnutlsclientanon.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsgnutlsserveranon.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsopenssl.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\tlsschannel.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\uniquemucroom.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\vcard.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\vcardmanager.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\vcardupdate.obj"
+         "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\gloox-0.9.9.12\Release\xdelayeddelivery.obj"
+            Creating library C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.lib and object C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.exp
+         Facebook Chatbot.vcxproj -> C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Release\Facebook Chatbot.exe;#1" /manifest "Release\Facebook Chatbot.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Facebook Chatbot.unsuccessfulbuild".
+         Touching "Release\Facebook Chatbot.lastbuildstate".
+     1>Done Building Project "C:\Users\Christopher Thornton\Documents\Visual Studio 2010\Projects\Facebook Chatbot\Facebook Chatbot\Facebook Chatbot.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
